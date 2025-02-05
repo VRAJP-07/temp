@@ -1,0 +1,781 @@
+2025-02-05 02:47:13,720 - INFO - Starting PDF processing...
+2025-02-05 02:47:13,720 - INFO - Started processing PDF: input\12-2415_12-2416_New Product_Sell Sheet_End User.pdf at 2025-02-05 02:47:13
+2025-02-05 02:47:13,804 - INFO - Reading PDF took 0.08 seconds.
+2025-02-05 02:47:19,814 - INFO - HTTP Request: POST https://openai-test-vraj.openai.azure.com/openai/deployments/gpt-4o-mini/chat/completions?api-version=2024-02-01 "HTTP/1.1 200 OK"
+2025-02-05 02:47:19,830 - INFO - LLM invocation took 6.03 seconds.
+2025-02-05 02:47:19,830 - INFO - CSV file saved: output\12-2415_12-2416_New Product_Sell Sheet_End User_output.csv
+2025-02-05 02:47:19,830 - INFO - Writing CSV file took 0.00 seconds.
+2025-02-05 02:47:19,843 - INFO - PDF processed and archived: input\12-2415_12-2416_New Product_Sell Sheet_End User.pdf
+2025-02-05 02:47:19,843 - INFO - Total processing time for input\12-2415_12-2416_New Product_Sell Sheet_End User.pdf was 6.12 seconds.
+2025-02-05 02:47:19,843 - INFO - Started processing PDF: input\1513B.pdf at 2025-02-05 02:47:19
+2025-02-05 02:47:22,767 - INFO - Reading PDF took 2.92 seconds.
+2025-02-05 02:47:29,533 - INFO - HTTP Request: POST https://openai-test-vraj.openai.azure.com/openai/deployments/gpt-4o-mini/chat/completions?api-version=2024-02-01 "HTTP/1.1 200 OK"
+2025-02-05 02:47:29,533 - INFO - LLM invocation took 6.77 seconds.
+2025-02-05 02:47:29,533 - INFO - CSV file saved: output\1513B_output.csv
+2025-02-05 02:47:29,533 - INFO - Writing CSV file took 0.00 seconds.
+2025-02-05 02:47:29,542 - INFO - PDF processed and archived: input\1513B.pdf
+2025-02-05 02:47:29,542 - INFO - Total processing time for input\1513B.pdf was 9.70 seconds.
+2025-02-05 02:47:29,542 - INFO - Started processing PDF: input\1515B.pdf at 2025-02-05 02:47:29
+2025-02-05 02:47:32,564 - INFO - Reading PDF took 3.02 seconds.
+2025-02-05 02:47:40,112 - INFO - HTTP Request: POST https://openai-test-vraj.openai.azure.com/openai/deployments/gpt-4o-mini/chat/completions?api-version=2024-02-01 "HTTP/1.1 200 OK"
+2025-02-05 02:47:40,112 - INFO - LLM invocation took 7.55 seconds.
+2025-02-05 02:47:40,112 - INFO - CSV file saved: output\1515B_output.csv
+2025-02-05 02:47:40,112 - INFO - Writing CSV file took 0.00 seconds.
+2025-02-05 02:47:40,124 - INFO - PDF processed and archived: input\1515B.pdf
+2025-02-05 02:47:40,124 - INFO - Total processing time for input\1515B.pdf was 10.58 seconds.
+2025-02-05 02:47:40,124 - INFO - Started processing PDF: input\2131-2.pdf at 2025-02-05 02:47:40
+2025-02-05 02:47:45,955 - INFO - Reading PDF took 5.83 seconds.
+2025-02-05 02:48:03,456 - INFO - HTTP Request: POST https://openai-test-vraj.openai.azure.com/openai/deployments/gpt-4o-mini/chat/completions?api-version=2024-02-01 "HTTP/1.1 200 OK"
+2025-02-05 02:48:03,456 - INFO - LLM invocation took 17.50 seconds.
+2025-02-05 02:48:03,472 - INFO - CSV file saved: output\2131-2_output.csv
+2025-02-05 02:48:03,472 - INFO - Writing CSV file took 0.02 seconds.
+2025-02-05 02:48:03,472 - INFO - PDF processed and archived: input\2131-2.pdf
+2025-02-05 02:48:03,472 - INFO - Total processing time for input\2131-2.pdf was 23.35 seconds.
+2025-02-05 02:48:03,472 - INFO - Started processing PDF: input\2131.pdf at 2025-02-05 02:48:03
+2025-02-05 02:48:09,301 - INFO - Reading PDF took 5.83 seconds.
+2025-02-05 02:48:23,662 - INFO - HTTP Request: POST https://openai-test-vraj.openai.azure.com/openai/deployments/gpt-4o-mini/chat/completions?api-version=2024-02-01 "HTTP/1.1 200 OK"
+2025-02-05 02:48:23,662 - INFO - LLM invocation took 14.36 seconds.
+2025-02-05 02:48:23,662 - INFO - CSV file saved: output\2131_output.csv
+2025-02-05 02:48:23,662 - INFO - Writing CSV file took 0.00 seconds.
+2025-02-05 02:48:23,662 - INFO - PDF processed and archived: input\2131.pdf
+2025-02-05 02:48:23,662 - INFO - Total processing time for input\2131.pdf was 20.19 seconds.
+2025-02-05 02:48:23,662 - INFO - Started processing PDF: input\2135QTIMAX-review.pdf at 2025-02-05 02:48:23
+2025-02-05 02:48:25,973 - INFO - Reading PDF took 2.31 seconds.
+2025-02-05 02:48:37,099 - INFO - HTTP Request: POST https://openai-test-vraj.openai.azure.com/openai/deployments/gpt-4o-mini/chat/completions?api-version=2024-02-01 "HTTP/1.1 200 OK"
+2025-02-05 02:48:37,099 - INFO - LLM invocation took 11.13 seconds.
+2025-02-05 02:48:37,099 - INFO - CSV file saved: output\2135QTIMAX-review_output.csv
+2025-02-05 02:48:37,099 - INFO - Writing CSV file took 0.00 seconds.
+2025-02-05 02:48:37,114 - INFO - PDF processed and archived: input\2135QTIMAX-review.pdf
+2025-02-05 02:48:37,114 - INFO - Total processing time for input\2135QTIMAX-review.pdf was 13.45 seconds.
+2025-02-05 02:48:37,115 - INFO - Started processing PDF: input\2141.pdf at 2025-02-05 02:48:37
+2025-02-05 02:48:38,709 - INFO - Reading PDF took 1.59 seconds.
+2025-02-05 02:48:42,911 - INFO - HTTP Request: POST https://openai-test-vraj.openai.azure.com/openai/deployments/gpt-4o-mini/chat/completions?api-version=2024-02-01 "HTTP/1.1 200 OK"
+2025-02-05 02:48:42,911 - INFO - LLM invocation took 4.20 seconds.
+2025-02-05 02:48:42,911 - INFO - CSV file saved: output\2141_output.csv
+2025-02-05 02:48:42,911 - INFO - Writing CSV file took 0.00 seconds.
+2025-02-05 02:48:42,911 - INFO - PDF processed and archived: input\2141.pdf
+2025-02-05 02:48:42,911 - INFO - Total processing time for input\2141.pdf was 5.80 seconds.
+2025-02-05 02:48:42,911 - INFO - Started processing PDF: input\6690.pdf at 2025-02-05 02:48:42
+2025-02-05 02:48:49,615 - INFO - Reading PDF took 6.70 seconds.
+2025-02-05 02:49:26,211 - INFO - HTTP Request: POST https://openai-test-vraj.openai.azure.com/openai/deployments/gpt-4o-mini/chat/completions?api-version=2024-02-01 "HTTP/1.1 200 OK"
+2025-02-05 02:49:26,226 - INFO - LLM invocation took 36.61 seconds.
+2025-02-05 02:49:26,239 - INFO - CSV file saved: output\6690_output.csv
+2025-02-05 02:49:26,239 - INFO - Writing CSV file took 0.01 seconds.
+2025-02-05 02:49:26,243 - INFO - PDF processed and archived: input\6690.pdf
+2025-02-05 02:49:26,244 - INFO - Total processing time for input\6690.pdf was 43.33 seconds.
+2025-02-05 02:49:26,244 - INFO - Started processing PDF: input\74340-B93601.pdf at 2025-02-05 02:49:26
+2025-02-05 02:49:29,274 - INFO - Reading PDF took 3.03 seconds.
+2025-02-05 02:49:33,555 - INFO - HTTP Request: POST https://openai-test-vraj.openai.azure.com/openai/deployments/gpt-4o-mini/chat/completions?api-version=2024-02-01 "HTTP/1.1 200 OK"
+2025-02-05 02:49:33,555 - INFO - LLM invocation took 4.28 seconds.
+2025-02-05 02:49:33,555 - WARNING - Skipping input\74340-B93601.pdf as have data is less.
+2025-02-05 02:49:33,570 - INFO - Started processing PDF: input\92100.pdf at 2025-02-05 02:49:33
+2025-02-05 02:49:38,556 - INFO - Reading PDF took 4.99 seconds.
+2025-02-05 02:49:43,446 - INFO - HTTP Request: POST https://openai-test-vraj.openai.azure.com/openai/deployments/gpt-4o-mini/chat/completions?api-version=2024-02-01 "HTTP/1.1 200 OK"
+2025-02-05 02:49:43,446 - INFO - LLM invocation took 4.89 seconds.
+2025-02-05 02:49:43,446 - INFO - CSV file saved: output\92100_output.csv
+2025-02-05 02:49:43,446 - INFO - Writing CSV file took 0.00 seconds.
+2025-02-05 02:49:43,446 - INFO - PDF processed and archived: input\92100.pdf
+2025-02-05 02:49:43,446 - INFO - Total processing time for input\92100.pdf was 9.88 seconds.
+2025-02-05 02:49:43,446 - INFO - Started processing PDF: input\ABFT11-review.pdf at 2025-02-05 02:49:43
+2025-02-05 02:49:43,649 - INFO - Reading PDF took 0.20 seconds.
+2025-02-05 02:49:46,977 - INFO - HTTP Request: POST https://openai-test-vraj.openai.azure.com/openai/deployments/gpt-4o-mini/chat/completions?api-version=2024-02-01 "HTTP/1.1 200 OK"
+2025-02-05 02:49:46,977 - INFO - LLM invocation took 3.33 seconds.
+2025-02-05 02:49:46,977 - INFO - CSV file saved: output\ABFT11-review_output.csv
+2025-02-05 02:49:46,994 - INFO - Writing CSV file took 0.02 seconds.
+2025-02-05 02:49:46,996 - INFO - PDF processed and archived: input\ABFT11-review.pdf
+2025-02-05 02:49:46,997 - INFO - Total processing time for input\ABFT11-review.pdf was 3.55 seconds.
+2025-02-05 02:49:46,997 - INFO - Started processing PDF: input\AC16009.pdf at 2025-02-05 02:49:46
+2025-02-05 02:49:47,745 - INFO - Reading PDF took 0.75 seconds.
+2025-02-05 02:49:51,383 - INFO - HTTP Request: POST https://openai-test-vraj.openai.azure.com/openai/deployments/gpt-4o-mini/chat/completions?api-version=2024-02-01 "HTTP/1.1 200 OK"
+2025-02-05 02:49:51,383 - INFO - LLM invocation took 3.64 seconds.
+2025-02-05 02:49:51,383 - INFO - CSV file saved: output\AC16009_output.csv
+2025-02-05 02:49:51,383 - INFO - Writing CSV file took 0.00 seconds.
+2025-02-05 02:49:51,383 - INFO - PDF processed and archived: input\AC16009.pdf
+2025-02-05 02:49:51,383 - INFO - Total processing time for input\AC16009.pdf was 4.39 seconds.
+2025-02-05 02:49:51,383 - INFO - Started processing PDF: input\AC34700Z.pdf at 2025-02-05 02:49:51
+2025-02-05 02:49:57,165 - INFO - Reading PDF took 5.78 seconds.
+2025-02-05 02:50:00,853 - INFO - HTTP Request: POST https://openai-test-vraj.openai.azure.com/openai/deployments/gpt-4o-mini/chat/completions?api-version=2024-02-01 "HTTP/1.1 200 OK"
+2025-02-05 02:50:00,853 - INFO - LLM invocation took 3.69 seconds.
+2025-02-05 02:50:00,868 - INFO - CSV file saved: output\AC34700Z_output.csv
+2025-02-05 02:50:00,868 - INFO - Writing CSV file took 0.02 seconds.
+2025-02-05 02:50:00,874 - INFO - PDF processed and archived: input\AC34700Z.pdf
+2025-02-05 02:50:00,874 - INFO - Total processing time for input\AC34700Z.pdf was 9.49 seconds.
+2025-02-05 02:50:00,874 - INFO - Started processing PDF: input\AC34788.pdf at 2025-02-05 02:50:00
+2025-02-05 02:50:07,431 - INFO - Reading PDF took 6.56 seconds.
+2025-02-05 02:50:11,431 - INFO - HTTP Request: POST https://openai-test-vraj.openai.azure.com/openai/deployments/gpt-4o-mini/chat/completions?api-version=2024-02-01 "HTTP/1.1 200 OK"
+2025-02-05 02:50:11,431 - INFO - LLM invocation took 4.00 seconds.
+2025-02-05 02:50:11,431 - INFO - CSV file saved: output\AC34788_output.csv
+2025-02-05 02:50:11,431 - INFO - Writing CSV file took 0.00 seconds.
+2025-02-05 02:50:11,431 - INFO - PDF processed and archived: input\AC34788.pdf
+2025-02-05 02:50:11,431 - INFO - Total processing time for input\AC34788.pdf was 10.56 seconds.
+2025-02-05 02:50:11,431 - INFO - Started processing PDF: input\AC500.pdf at 2025-02-05 02:50:11
+2025-02-05 02:50:12,603 - INFO - Reading PDF took 1.17 seconds.
+2025-02-05 02:50:18,822 - INFO - HTTP Request: POST https://openai-test-vraj.openai.azure.com/openai/deployments/gpt-4o-mini/chat/completions?api-version=2024-02-01 "HTTP/1.1 200 OK"
+2025-02-05 02:50:18,822 - INFO - LLM invocation took 6.22 seconds.
+2025-02-05 02:50:18,822 - INFO - CSV file saved: output\AC500_output.csv
+2025-02-05 02:50:18,822 - INFO - Writing CSV file took 0.00 seconds.
+2025-02-05 02:50:18,822 - INFO - PDF processed and archived: input\AC500.pdf
+2025-02-05 02:50:18,822 - INFO - Total processing time for input\AC500.pdf was 7.39 seconds.
+2025-02-05 02:50:18,838 - INFO - Started processing PDF: input\AC680.pdf at 2025-02-05 02:50:18
+2025-02-05 02:50:20,494 - INFO - Reading PDF took 1.66 seconds.
+2025-02-05 02:50:31,229 - INFO - HTTP Request: POST https://openai-test-vraj.openai.azure.com/openai/deployments/gpt-4o-mini/chat/completions?api-version=2024-02-01 "HTTP/1.1 200 OK"
+2025-02-05 02:50:31,229 - INFO - LLM invocation took 10.73 seconds.
+2025-02-05 02:50:31,229 - INFO - CSV file saved: output\AC680_output.csv
+2025-02-05 02:50:31,229 - INFO - Writing CSV file took 0.00 seconds.
+2025-02-05 02:50:31,240 - INFO - PDF processed and archived: input\AC680.pdf
+2025-02-05 02:50:31,240 - INFO - Total processing time for input\AC680.pdf was 12.40 seconds.
+2025-02-05 02:50:31,240 - INFO - Started processing PDF: input\AC890.pdf at 2025-02-05 02:50:31
+2025-02-05 02:50:45,668 - INFO - Reading PDF took 14.43 seconds.
+2025-02-05 02:50:49,465 - INFO - HTTP Request: POST https://openai-test-vraj.openai.azure.com/openai/deployments/gpt-4o-mini/chat/completions?api-version=2024-02-01 "HTTP/1.1 200 OK"
+2025-02-05 02:50:49,465 - INFO - LLM invocation took 3.80 seconds.
+2025-02-05 02:50:49,465 - INFO - CSV file saved: output\AC890_output.csv
+2025-02-05 02:50:49,465 - INFO - Writing CSV file took 0.00 seconds.
+2025-02-05 02:50:49,472 - INFO - PDF processed and archived: input\AC890.pdf
+2025-02-05 02:50:49,472 - INFO - Total processing time for input\AC890.pdf was 18.23 seconds.
+2025-02-05 02:50:49,472 - INFO - Started processing PDF: input\AC900.pdf at 2025-02-05 02:50:49
+2025-02-05 02:51:04,450 - INFO - Reading PDF took 14.98 seconds.
+2025-02-05 02:51:08,419 - INFO - HTTP Request: POST https://openai-test-vraj.openai.azure.com/openai/deployments/gpt-4o-mini/chat/completions?api-version=2024-02-01 "HTTP/1.1 200 OK"
+2025-02-05 02:51:08,419 - INFO - LLM invocation took 3.95 seconds.
+2025-02-05 02:51:08,436 - INFO - CSV file saved: output\AC900_output.csv
+2025-02-05 02:51:08,436 - INFO - Writing CSV file took 0.02 seconds.
+2025-02-05 02:51:08,440 - INFO - PDF processed and archived: input\AC900.pdf
+2025-02-05 02:51:08,440 - INFO - Total processing time for input\AC900.pdf was 18.97 seconds.
+2025-02-05 02:51:08,441 - INFO - Started processing PDF: input\AC990.pdf at 2025-02-05 02:51:08
+2025-02-05 02:51:12,763 - INFO - Reading PDF took 4.32 seconds.
+2025-02-05 02:51:15,294 - INFO - HTTP Request: POST https://openai-test-vraj.openai.azure.com/openai/deployments/gpt-4o-mini/chat/completions?api-version=2024-02-01 "HTTP/1.1 200 OK"
+2025-02-05 02:51:15,294 - INFO - LLM invocation took 2.53 seconds.
+2025-02-05 02:51:15,294 - INFO - CSV file saved: output\AC990_output.csv
+2025-02-05 02:51:15,294 - INFO - Writing CSV file took 0.00 seconds.
+2025-02-05 02:51:15,294 - INFO - PDF processed and archived: input\AC990.pdf
+2025-02-05 02:51:15,294 - INFO - Total processing time for input\AC990.pdf was 6.85 seconds.
+2025-02-05 02:51:15,294 - INFO - Started processing PDF: input\ACP10253D.pdf at 2025-02-05 02:51:15
+2025-02-05 02:51:25,982 - INFO - Reading PDF took 10.69 seconds.
+2025-02-05 02:51:32,654 - INFO - HTTP Request: POST https://openai-test-vraj.openai.azure.com/openai/deployments/gpt-4o-mini/chat/completions?api-version=2024-02-01 "HTTP/1.1 200 OK"
+2025-02-05 02:51:32,654 - INFO - LLM invocation took 6.67 seconds.
+2025-02-05 02:51:32,654 - INFO - CSV file saved: output\ACP10253D_output.csv
+2025-02-05 02:51:32,654 - INFO - Writing CSV file took 0.00 seconds.
+2025-02-05 02:51:32,654 - INFO - PDF processed and archived: input\ACP10253D.pdf
+2025-02-05 02:51:32,654 - INFO - Total processing time for input\ACP10253D.pdf was 17.36 seconds.
+2025-02-05 02:51:32,654 - INFO - Started processing PDF: input\ACR220M.pdf at 2025-02-05 02:51:32
+2025-02-05 02:51:45,905 - INFO - Reading PDF took 13.25 seconds.
+2025-02-05 02:51:53,530 - INFO - HTTP Request: POST https://openai-test-vraj.openai.azure.com/openai/deployments/gpt-4o-mini/chat/completions?api-version=2024-02-01 "HTTP/1.1 200 OK"
+2025-02-05 02:51:53,530 - INFO - LLM invocation took 7.63 seconds.
+2025-02-05 02:51:53,530 - INFO - CSV file saved: output\ACR220M_output.csv
+2025-02-05 02:51:53,530 - INFO - Writing CSV file took 0.00 seconds.
+2025-02-05 02:51:53,548 - INFO - PDF processed and archived: input\ACR220M.pdf
+2025-02-05 02:51:53,548 - INFO - Total processing time for input\ACR220M.pdf was 20.89 seconds.
+2025-02-05 02:51:53,549 - INFO - Started processing PDF: input\ACU1.pdf at 2025-02-05 02:51:53
+2025-02-05 02:51:53,663 - INFO - Reading PDF took 0.11 seconds.
+2025-02-05 02:51:59,093 - INFO - HTTP Request: POST https://openai-test-vraj.openai.azure.com/openai/deployments/gpt-4o-mini/chat/completions?api-version=2024-02-01 "HTTP/1.1 200 OK"
+2025-02-05 02:51:59,093 - INFO - LLM invocation took 5.43 seconds.
+2025-02-05 02:51:59,093 - INFO - CSV file saved: output\ACU1_output.csv
+2025-02-05 02:51:59,093 - INFO - Writing CSV file took 0.00 seconds.
+2025-02-05 02:51:59,093 - INFO - PDF processed and archived: input\ACU1.pdf
+2025-02-05 02:51:59,109 - INFO - Total processing time for input\ACU1.pdf was 5.56 seconds.
+2025-02-05 02:51:59,109 - INFO - Started processing PDF: input\AD3800K.pdf at 2025-02-05 02:51:59
+2025-02-05 02:51:59,196 - INFO - Reading PDF took 0.09 seconds.
+2025-02-05 02:52:15,048 - INFO - HTTP Request: POST https://openai-test-vraj.openai.azure.com/openai/deployments/gpt-4o-mini/chat/completions?api-version=2024-02-01 "HTTP/1.1 200 OK"
+2025-02-05 02:52:15,049 - INFO - LLM invocation took 15.85 seconds.
+2025-02-05 02:52:15,052 - INFO - CSV file saved: output\AD3800K_output.csv
+2025-02-05 02:52:15,052 - INFO - Writing CSV file took 0.00 seconds.
+2025-02-05 02:52:15,054 - INFO - PDF processed and archived: input\AD3800K.pdf
+2025-02-05 02:52:15,054 - INFO - Total processing time for input\AD3800K.pdf was 15.95 seconds.
+2025-02-05 02:52:15,054 - INFO - Started processing PDF: input\AEV700.pdf at 2025-02-05 02:52:15
+2025-02-05 02:52:16,219 - INFO - Reading PDF took 1.16 seconds.
+2025-02-05 02:52:19,828 - INFO - HTTP Request: POST https://openai-test-vraj.openai.azure.com/openai/deployments/gpt-4o-mini/chat/completions?api-version=2024-02-01 "HTTP/1.1 200 OK"
+2025-02-05 02:52:19,828 - INFO - LLM invocation took 3.61 seconds.
+2025-02-05 02:52:19,844 - INFO - CSV file saved: output\AEV700_output.csv
+2025-02-05 02:52:19,844 - INFO - Writing CSV file took 0.02 seconds.
+2025-02-05 02:52:19,844 - INFO - PDF processed and archived: input\AEV700.pdf
+2025-02-05 02:52:19,844 - INFO - Total processing time for input\AEV700.pdf was 4.79 seconds.
+2025-02-05 02:52:19,844 - INFO - Started processing PDF: input\AEV700A.pdf at 2025-02-05 02:52:19
+2025-02-05 02:52:31,204 - INFO - Reading PDF took 11.35 seconds.
+2025-02-05 02:52:36,095 - INFO - HTTP Request: POST https://openai-test-vraj.openai.azure.com/openai/deployments/gpt-4o-mini/chat/completions?api-version=2024-02-01 "HTTP/1.1 200 OK"
+2025-02-05 02:52:36,095 - INFO - LLM invocation took 4.89 seconds.
+2025-02-05 02:52:36,095 - INFO - CSV file saved: output\AEV700A_output.csv
+2025-02-05 02:52:36,095 - INFO - Writing CSV file took 0.00 seconds.
+2025-02-05 02:52:36,114 - INFO - PDF processed and archived: input\AEV700A.pdf
+2025-02-05 02:52:36,114 - INFO - Total processing time for input\AEV700A.pdf was 16.27 seconds.
+2025-02-05 02:52:36,114 - INFO - Started processing PDF: input\AGQP100.pdf at 2025-02-05 02:52:36
+2025-02-05 02:52:36,501 - INFO - Reading PDF took 0.39 seconds.
+2025-02-05 02:52:39,611 - INFO - HTTP Request: POST https://openai-test-vraj.openai.azure.com/openai/deployments/gpt-4o-mini/chat/completions?api-version=2024-02-01 "HTTP/1.1 200 OK"
+2025-02-05 02:52:39,611 - INFO - LLM invocation took 3.09 seconds.
+2025-02-05 02:52:39,611 - INFO - CSV file saved: output\AGQP100_output.csv
+2025-02-05 02:52:39,611 - INFO - Writing CSV file took 0.00 seconds.
+2025-02-05 02:52:39,627 - INFO - PDF processed and archived: input\AGQP100.pdf
+2025-02-05 02:52:39,627 - INFO - Total processing time for input\AGQP100.pdf was 3.51 seconds.
+2025-02-05 02:52:39,627 - INFO - Started processing PDF: input\AR199Q (with Dual Pawls).pdf at 2025-02-05 02:52:39
+2025-02-05 02:52:39,722 - INFO - Reading PDF took 0.10 seconds.
+2025-02-05 02:52:50,424 - INFO - HTTP Request: POST https://openai-test-vraj.openai.azure.com/openai/deployments/gpt-4o-mini/chat/completions?api-version=2024-02-01 "HTTP/1.1 200 OK"
+2025-02-05 02:52:50,424 - INFO - LLM invocation took 10.70 seconds.
+2025-02-05 02:52:50,424 - INFO - CSV file saved: output\AR199Q (with Dual Pawls)_output.csv
+2025-02-05 02:52:50,424 - INFO - Writing CSV file took 0.00 seconds.
+2025-02-05 02:52:50,424 - INFO - PDF processed and archived: input\AR199Q (with Dual Pawls).pdf
+2025-02-05 02:52:50,424 - INFO - Total processing time for input\AR199Q (with Dual Pawls).pdf was 10.80 seconds.
+2025-02-05 02:52:50,424 - INFO - Started processing PDF: input\AS3237MS-JH and AS3237MS-PSA.pdf at 2025-02-05 02:52:50
+2025-02-05 02:52:54,346 - INFO - Reading PDF took 3.92 seconds.
+2025-02-05 02:52:58,940 - INFO - HTTP Request: POST https://openai-test-vraj.openai.azure.com/openai/deployments/gpt-4o-mini/chat/completions?api-version=2024-02-01 "HTTP/1.1 200 OK"
+2025-02-05 02:52:58,940 - INFO - LLM invocation took 4.59 seconds.
+2025-02-05 02:52:58,940 - INFO - CSV file saved: output\AS3237MS-JH and AS3237MS-PSA_output.csv
+2025-02-05 02:52:58,940 - INFO - Writing CSV file took 0.00 seconds.
+2025-02-05 02:52:58,940 - INFO - PDF processed and archived: input\AS3237MS-JH and AS3237MS-PSA.pdf
+2025-02-05 02:52:58,940 - INFO - Total processing time for input\AS3237MS-JH and AS3237MS-PSA.pdf was 8.52 seconds.
+2025-02-05 02:52:58,940 - INFO - Started processing PDF: input\AS34MS-PSA.pdf at 2025-02-05 02:52:58
+2025-02-05 02:53:02,409 - INFO - Reading PDF took 3.47 seconds.
+2025-02-05 02:53:07,081 - INFO - HTTP Request: POST https://openai-test-vraj.openai.azure.com/openai/deployments/gpt-4o-mini/chat/completions?api-version=2024-02-01 "HTTP/1.1 200 OK"
+2025-02-05 02:53:07,096 - INFO - LLM invocation took 4.69 seconds.
+2025-02-05 02:53:07,096 - WARNING - Skipping input\AS34MS-PSA.pdf as have data is less.
+2025-02-05 02:53:07,096 - INFO - Started processing PDF: input\AS3MS-PSA.pdf at 2025-02-05 02:53:07
+2025-02-05 02:53:09,878 - INFO - Reading PDF took 2.78 seconds.
+2025-02-05 02:53:15,659 - INFO - HTTP Request: POST https://openai-test-vraj.openai.azure.com/openai/deployments/gpt-4o-mini/chat/completions?api-version=2024-02-01 "HTTP/1.1 200 OK"
+2025-02-05 02:53:15,669 - INFO - LLM invocation took 5.79 seconds.
+2025-02-05 02:53:15,670 - WARNING - Skipping input\AS3MS-PSA.pdf as have data is less.
+2025-02-05 02:53:15,672 - INFO - Started processing PDF: input\AS5MS-PSA and AS6MS-PSA and AS6FMS-PSA.pdf at 2025-02-05 02:53:15
+2025-02-05 02:53:18,425 - INFO - Reading PDF took 2.75 seconds.
+2025-02-05 02:53:26,519 - INFO - HTTP Request: POST https://openai-test-vraj.openai.azure.com/openai/deployments/gpt-4o-mini/chat/completions?api-version=2024-02-01 "HTTP/1.1 200 OK"
+2025-02-05 02:53:26,535 - INFO - LLM invocation took 8.11 seconds.
+2025-02-05 02:53:26,535 - INFO - CSV file saved: output\AS5MS-PSA and AS6MS-PSA and AS6FMS-PSA_output.csv
+2025-02-05 02:53:26,535 - INFO - Writing CSV file took 0.00 seconds.
+2025-02-05 02:53:26,543 - INFO - PDF processed and archived: input\AS5MS-PSA and AS6MS-PSA and AS6FMS-PSA.pdf
+2025-02-05 02:53:26,544 - INFO - Total processing time for input\AS5MS-PSA and AS6MS-PSA and AS6FMS-PSA.pdf was 10.87 seconds.
+2025-02-05 02:53:26,544 - INFO - Started processing PDF: input\AST7351.pdf at 2025-02-05 02:53:26
+2025-02-05 02:53:26,637 - INFO - Reading PDF took 0.09 seconds.
+2025-02-05 02:53:36,577 - INFO - HTTP Request: POST https://openai-test-vraj.openai.azure.com/openai/deployments/gpt-4o-mini/chat/completions?api-version=2024-02-01 "HTTP/1.1 200 OK"
+2025-02-05 02:53:36,579 - INFO - LLM invocation took 9.94 seconds.
+2025-02-05 02:53:36,581 - INFO - CSV file saved: output\AST7351_output.csv
+2025-02-05 02:53:36,582 - INFO - Writing CSV file took 0.00 seconds.
+2025-02-05 02:53:36,584 - INFO - PDF processed and archived: input\AST7351.pdf
+2025-02-05 02:53:36,585 - INFO - Total processing time for input\AST7351.pdf was 10.04 seconds.
+2025-02-05 02:53:36,585 - INFO - Started processing PDF: input\ASWD317.pdf at 2025-02-05 02:53:36
+2025-02-05 02:53:37,598 - INFO - Reading PDF took 1.01 seconds.
+2025-02-05 02:53:41,348 - INFO - HTTP Request: POST https://openai-test-vraj.openai.azure.com/openai/deployments/gpt-4o-mini/chat/completions?api-version=2024-02-01 "HTTP/1.1 200 OK"
+2025-02-05 02:53:41,348 - INFO - LLM invocation took 3.75 seconds.
+2025-02-05 02:53:41,348 - INFO - CSV file saved: output\ASWD317_output.csv
+2025-02-05 02:53:41,348 - INFO - Writing CSV file took 0.00 seconds.
+2025-02-05 02:53:41,365 - INFO - PDF processed and archived: input\ASWD317.pdf
+2025-02-05 02:53:41,366 - INFO - Total processing time for input\ASWD317.pdf was 4.78 seconds.
+2025-02-05 02:53:41,366 - INFO - Started processing PDF: input\AW1000RG.pdf at 2025-02-05 02:53:41
+2025-02-05 02:53:41,583 - INFO - Reading PDF took 0.22 seconds.
+2025-02-05 02:53:50,193 - INFO - HTTP Request: POST https://openai-test-vraj.openai.azure.com/openai/deployments/gpt-4o-mini/chat/completions?api-version=2024-02-01 "HTTP/1.1 200 OK"
+2025-02-05 02:53:50,193 - INFO - LLM invocation took 8.61 seconds.
+2025-02-05 02:53:50,193 - INFO - CSV file saved: output\AW1000RG_output.csv
+2025-02-05 02:53:50,193 - INFO - Writing CSV file took 0.00 seconds.
+2025-02-05 02:53:50,193 - INFO - PDF processed and archived: input\AW1000RG.pdf
+2025-02-05 02:53:50,193 - INFO - Total processing time for input\AW1000RG.pdf was 8.83 seconds.
+2025-02-05 02:53:50,193 - INFO - Started processing PDF: input\AW245.pdf at 2025-02-05 02:53:50
+2025-02-05 02:53:52,742 - INFO - Reading PDF took 2.55 seconds.
+2025-02-05 02:53:56,053 - INFO - HTTP Request: POST https://openai-test-vraj.openai.azure.com/openai/deployments/gpt-4o-mini/chat/completions?api-version=2024-02-01 "HTTP/1.1 200 OK"
+2025-02-05 02:53:56,053 - INFO - LLM invocation took 3.31 seconds.
+2025-02-05 02:53:56,053 - INFO - CSV file saved: output\AW245_output.csv
+2025-02-05 02:53:56,053 - INFO - Writing CSV file took 0.00 seconds.
+2025-02-05 02:53:56,069 - INFO - PDF processed and archived: input\AW245.pdf
+2025-02-05 02:53:56,069 - INFO - Total processing time for input\AW245.pdf was 5.88 seconds.
+2025-02-05 02:53:56,069 - INFO - Started processing PDF: input\AW280Q (as of April 08).pdf at 2025-02-05 02:53:56
+2025-02-05 02:53:56,549 - INFO - Reading PDF took 0.48 seconds.
+2025-02-05 02:54:00,443 - INFO - HTTP Request: POST https://openai-test-vraj.openai.azure.com/openai/deployments/gpt-4o-mini/chat/completions?api-version=2024-02-01 "HTTP/1.1 200 OK"
+2025-02-05 02:54:00,443 - INFO - LLM invocation took 3.89 seconds.
+2025-02-05 02:54:00,443 - INFO - CSV file saved: output\AW280Q (as of April 08)_output.csv
+2025-02-05 02:54:00,443 - INFO - Writing CSV file took 0.00 seconds.
+2025-02-05 02:54:00,443 - INFO - PDF processed and archived: input\AW280Q (as of April 08).pdf
+2025-02-05 02:54:00,459 - INFO - Total processing time for input\AW280Q (as of April 08).pdf was 4.39 seconds.
+2025-02-05 02:54:00,459 - INFO - Started processing PDF: input\AW280QA.pdf at 2025-02-05 02:54:00
+2025-02-05 02:54:01,137 - INFO - Reading PDF took 0.68 seconds.
+2025-02-05 02:54:14,069 - INFO - HTTP Request: POST https://openai-test-vraj.openai.azure.com/openai/deployments/gpt-4o-mini/chat/completions?api-version=2024-02-01 "HTTP/1.1 200 OK"
+2025-02-05 02:54:14,069 - INFO - LLM invocation took 12.93 seconds.
+2025-02-05 02:54:14,069 - INFO - CSV file saved: output\AW280QA_output.csv
+2025-02-05 02:54:14,069 - INFO - Writing CSV file took 0.00 seconds.
+2025-02-05 02:54:14,087 - INFO - PDF processed and archived: input\AW280QA.pdf
+2025-02-05 02:54:14,087 - INFO - Total processing time for input\AW280QA.pdf was 13.63 seconds.
+2025-02-05 02:54:14,088 - INFO - Started processing PDF: input\AW284Q (as of Feb 08).pdf at 2025-02-05 02:54:14
+2025-02-05 02:54:14,671 - INFO - Reading PDF took 0.58 seconds.
+2025-02-05 02:54:18,444 - INFO - HTTP Request: POST https://openai-test-vraj.openai.azure.com/openai/deployments/gpt-4o-mini/chat/completions?api-version=2024-02-01 "HTTP/1.1 200 OK"
+2025-02-05 02:54:18,459 - INFO - LLM invocation took 3.79 seconds.
+2025-02-05 02:54:18,459 - INFO - CSV file saved: output\AW284Q (as of Feb 08)_output.csv
+2025-02-05 02:54:18,459 - INFO - Writing CSV file took 0.00 seconds.
+2025-02-05 02:54:18,473 - INFO - PDF processed and archived: input\AW284Q (as of Feb 08).pdf
+2025-02-05 02:54:18,473 - INFO - Total processing time for input\AW284Q (as of Feb 08).pdf was 4.39 seconds.
+2025-02-05 02:54:18,474 - INFO - Started processing PDF: input\AW284QA.pdf at 2025-02-05 02:54:18
+2025-02-05 02:54:18,944 - INFO - Reading PDF took 0.47 seconds.
+2025-02-05 02:54:22,069 - INFO - HTTP Request: POST https://openai-test-vraj.openai.azure.com/openai/deployments/gpt-4o-mini/chat/completions?api-version=2024-02-01 "HTTP/1.1 200 OK"
+2025-02-05 02:54:22,069 - INFO - LLM invocation took 3.13 seconds.
+2025-02-05 02:54:22,069 - INFO - CSV file saved: output\AW284QA_output.csv
+2025-02-05 02:54:22,069 - INFO - Writing CSV file took 0.00 seconds.
+2025-02-05 02:54:22,083 - INFO - PDF processed and archived: input\AW284QA.pdf
+2025-02-05 02:54:22,083 - INFO - Total processing time for input\AW284QA.pdf was 3.61 seconds.
+2025-02-05 02:54:22,083 - INFO - Started processing PDF: input\AW3400Q (as of April 08).pdf at 2025-02-05 02:54:22
+2025-02-05 02:54:22,681 - INFO - Reading PDF took 0.60 seconds.
+2025-02-05 02:54:32,382 - INFO - HTTP Request: POST https://openai-test-vraj.openai.azure.com/openai/deployments/gpt-4o-mini/chat/completions?api-version=2024-02-01 "HTTP/1.1 200 OK"
+2025-02-05 02:54:32,382 - INFO - LLM invocation took 9.70 seconds.
+2025-02-05 02:54:32,382 - INFO - CSV file saved: output\AW3400Q (as of April 08)_output.csv
+2025-02-05 02:54:32,382 - INFO - Writing CSV file took 0.00 seconds.
+2025-02-05 02:54:32,397 - INFO - PDF processed and archived: input\AW3400Q (as of April 08).pdf
+2025-02-05 02:54:32,398 - INFO - Total processing time for input\AW3400Q (as of April 08).pdf was 10.31 seconds.
+2025-02-05 02:54:32,398 - INFO - Started processing PDF: input\AW3400Q.pdf at 2025-02-05 02:54:32
+2025-02-05 02:54:32,663 - INFO - Reading PDF took 0.27 seconds.
+2025-02-05 02:54:38,132 - INFO - HTTP Request: POST https://openai-test-vraj.openai.azure.com/openai/deployments/gpt-4o-mini/chat/completions?api-version=2024-02-01 "HTTP/1.1 200 OK"
+2025-02-05 02:54:38,132 - INFO - LLM invocation took 5.47 seconds.
+2025-02-05 02:54:38,148 - INFO - CSV file saved: output\AW3400Q_output.csv
+2025-02-05 02:54:38,148 - INFO - Writing CSV file took 0.02 seconds.
+2025-02-05 02:54:38,148 - INFO - PDF processed and archived: input\AW3400Q.pdf
+2025-02-05 02:54:38,148 - INFO - Total processing time for input\AW3400Q.pdf was 5.75 seconds.
+2025-02-05 02:54:38,148 - INFO - Started processing PDF: input\AW350RG.pdf at 2025-02-05 02:54:38
+2025-02-05 02:54:38,287 - INFO - Reading PDF took 0.14 seconds.
+2025-02-05 02:54:49,539 - INFO - HTTP Request: POST https://openai-test-vraj.openai.azure.com/openai/deployments/gpt-4o-mini/chat/completions?api-version=2024-02-01 "HTTP/1.1 200 OK"
+2025-02-05 02:54:49,539 - INFO - LLM invocation took 11.25 seconds.
+2025-02-05 02:54:49,558 - INFO - CSV file saved: output\AW350RG_output.csv
+2025-02-05 02:54:49,558 - INFO - Writing CSV file took 0.02 seconds.
+2025-02-05 02:54:49,561 - INFO - PDF processed and archived: input\AW350RG.pdf
+2025-02-05 02:54:49,562 - INFO - Total processing time for input\AW350RG.pdf was 11.41 seconds.
+2025-02-05 02:54:49,562 - INFO - Started processing PDF: input\AW434M-2.pdf at 2025-02-05 02:54:49
+2025-02-05 02:54:55,133 - INFO - Reading PDF took 5.56 seconds.
+2025-02-05 02:55:03,930 - INFO - HTTP Request: POST https://openai-test-vraj.openai.azure.com/openai/deployments/gpt-4o-mini/chat/completions?api-version=2024-02-01 "HTTP/1.1 200 OK"
+2025-02-05 02:55:03,930 - INFO - LLM invocation took 8.80 seconds.
+2025-02-05 02:55:03,930 - INFO - CSV file saved: output\AW434M-2_output.csv
+2025-02-05 02:55:03,930 - INFO - Writing CSV file took 0.00 seconds.
+2025-02-05 02:55:03,947 - INFO - PDF processed and archived: input\AW434M-2.pdf
+2025-02-05 02:55:03,948 - INFO - Total processing time for input\AW434M-2.pdf was 14.39 seconds.
+2025-02-05 02:55:03,948 - INFO - Started processing PDF: input\AW434M.pdf at 2025-02-05 02:55:03
+2025-02-05 02:55:09,556 - INFO - Reading PDF took 5.61 seconds.
+2025-02-05 02:55:17,665 - INFO - HTTP Request: POST https://openai-test-vraj.openai.azure.com/openai/deployments/gpt-4o-mini/chat/completions?api-version=2024-02-01 "HTTP/1.1 200 OK"
+2025-02-05 02:55:17,681 - INFO - LLM invocation took 8.13 seconds.
+2025-02-05 02:55:17,681 - INFO - CSV file saved: output\AW434M_output.csv
+2025-02-05 02:55:17,681 - INFO - Writing CSV file took 0.00 seconds.
+2025-02-05 02:55:17,681 - INFO - PDF processed and archived: input\AW434M.pdf
+2025-02-05 02:55:17,681 - INFO - Total processing time for input\AW434M.pdf was 13.73 seconds.
+2025-02-05 02:55:17,681 - INFO - Started processing PDF: input\AW480Q (as of April 08).pdf at 2025-02-05 02:55:17
+2025-02-05 02:55:18,478 - INFO - Reading PDF took 0.80 seconds.
+2025-02-05 02:55:22,181 - INFO - HTTP Request: POST https://openai-test-vraj.openai.azure.com/openai/deployments/gpt-4o-mini/chat/completions?api-version=2024-02-01 "HTTP/1.1 200 OK"
+2025-02-05 02:55:22,181 - INFO - LLM invocation took 3.70 seconds.
+2025-02-05 02:55:22,181 - INFO - CSV file saved: output\AW480Q (as of April 08)_output.csv
+2025-02-05 02:55:22,181 - INFO - Writing CSV file took 0.00 seconds.
+2025-02-05 02:55:22,192 - INFO - PDF processed and archived: input\AW480Q (as of April 08).pdf
+2025-02-05 02:55:22,192 - INFO - Total processing time for input\AW480Q (as of April 08).pdf was 4.51 seconds.
+2025-02-05 02:55:22,193 - INFO - Started processing PDF: input\AW612Q.pdf at 2025-02-05 02:55:22
+2025-02-05 02:55:23,197 - INFO - Reading PDF took 1.00 seconds.
+2025-02-05 02:55:27,197 - INFO - HTTP Request: POST https://openai-test-vraj.openai.azure.com/openai/deployments/gpt-4o-mini/chat/completions?api-version=2024-02-01 "HTTP/1.1 200 OK"
+2025-02-05 02:55:27,197 - INFO - LLM invocation took 4.00 seconds.
+2025-02-05 02:55:27,213 - INFO - CSV file saved: output\AW612Q_output.csv
+2025-02-05 02:55:27,213 - INFO - Writing CSV file took 0.02 seconds.
+2025-02-05 02:55:27,213 - INFO - PDF processed and archived: input\AW612Q.pdf
+2025-02-05 02:55:27,213 - INFO - Total processing time for input\AW612Q.pdf was 5.02 seconds.
+2025-02-05 02:55:27,213 - INFO - Started processing PDF: input\AWP038.pdf at 2025-02-05 02:55:27
+2025-02-05 02:55:31,791 - INFO - Reading PDF took 4.58 seconds.
+2025-02-05 02:55:40,354 - INFO - HTTP Request: POST https://openai-test-vraj.openai.azure.com/openai/deployments/gpt-4o-mini/chat/completions?api-version=2024-02-01 "HTTP/1.1 200 OK"
+2025-02-05 02:55:40,354 - INFO - LLM invocation took 8.56 seconds.
+2025-02-05 02:55:40,354 - INFO - CSV file saved: output\AWP038_output.csv
+2025-02-05 02:55:40,354 - INFO - Writing CSV file took 0.00 seconds.
+2025-02-05 02:55:40,367 - INFO - PDF processed and archived: input\AWP038.pdf
+2025-02-05 02:55:40,368 - INFO - Total processing time for input\AWP038.pdf was 13.16 seconds.
+2025-02-05 02:55:40,368 - INFO - Started processing PDF: input\AWP050.pdf at 2025-02-05 02:55:40
+2025-02-05 02:55:47,247 - INFO - Reading PDF took 6.88 seconds.
+2025-02-05 02:55:56,386 - INFO - HTTP Request: POST https://openai-test-vraj.openai.azure.com/openai/deployments/gpt-4o-mini/chat/completions?api-version=2024-02-01 "HTTP/1.1 200 OK"
+2025-02-05 02:55:56,386 - INFO - LLM invocation took 9.14 seconds.
+2025-02-05 02:55:56,386 - INFO - CSV file saved: output\AWP050_output.csv
+2025-02-05 02:55:56,386 - INFO - Writing CSV file took 0.00 seconds.
+2025-02-05 02:55:56,386 - INFO - PDF processed and archived: input\AWP050.pdf
+2025-02-05 02:55:56,386 - INFO - Total processing time for input\AWP050.pdf was 16.02 seconds.
+2025-02-05 02:55:56,386 - INFO - Started processing PDF: input\AWP050C.pdf at 2025-02-05 02:55:56
+2025-02-05 02:56:01,089 - INFO - Reading PDF took 4.70 seconds.
+2025-02-05 02:56:11,184 - INFO - HTTP Request: POST https://openai-test-vraj.openai.azure.com/openai/deployments/gpt-4o-mini/chat/completions?api-version=2024-02-01 "HTTP/1.1 200 OK"
+2025-02-05 02:56:11,184 - INFO - LLM invocation took 10.09 seconds.
+2025-02-05 02:56:11,184 - INFO - CSV file saved: output\AWP050C_output.csv
+2025-02-05 02:56:11,184 - INFO - Writing CSV file took 0.00 seconds.
+2025-02-05 02:56:11,202 - INFO - PDF processed and archived: input\AWP050C.pdf
+2025-02-05 02:56:11,202 - INFO - Total processing time for input\AWP050C.pdf was 14.82 seconds.
+2025-02-05 02:56:11,202 - INFO - Started processing PDF: input\AWP075.pdf at 2025-02-05 02:56:11
+2025-02-05 02:56:16,090 - INFO - Reading PDF took 4.89 seconds.
+2025-02-05 02:56:22,684 - INFO - HTTP Request: POST https://openai-test-vraj.openai.azure.com/openai/deployments/gpt-4o-mini/chat/completions?api-version=2024-02-01 "HTTP/1.1 200 OK"
+2025-02-05 02:56:22,684 - INFO - LLM invocation took 6.59 seconds.
+2025-02-05 02:56:22,684 - INFO - CSV file saved: output\AWP075_output.csv
+2025-02-05 02:56:22,684 - INFO - Writing CSV file took 0.00 seconds.
+2025-02-05 02:56:22,684 - INFO - PDF processed and archived: input\AWP075.pdf
+2025-02-05 02:56:22,684 - INFO - Total processing time for input\AWP075.pdf was 11.48 seconds.
+2025-02-05 02:56:22,684 - INFO - Started processing PDF: input\AWP099-6.pdf at 2025-02-05 02:56:22
+2025-02-05 02:57:07,210 - INFO - Reading PDF took 44.53 seconds.
+2025-02-05 02:57:12,515 - INFO - HTTP Request: POST https://openai-test-vraj.openai.azure.com/openai/deployments/gpt-4o-mini/chat/completions?api-version=2024-02-01 "HTTP/1.1 200 OK"
+2025-02-05 02:57:12,515 - INFO - LLM invocation took 5.30 seconds.
+2025-02-05 02:57:12,515 - INFO - CSV file saved: output\AWP099-6_output.csv
+2025-02-05 02:57:12,515 - INFO - Writing CSV file took 0.00 seconds.
+2025-02-05 02:57:12,525 - INFO - PDF processed and archived: input\AWP099-6.pdf
+2025-02-05 02:57:12,525 - INFO - Total processing time for input\AWP099-6.pdf was 49.84 seconds.
+2025-02-05 02:57:12,525 - INFO - Started processing PDF: input\AWP099-S.pdf at 2025-02-05 02:57:12
+2025-02-05 02:57:57,892 - INFO - Reading PDF took 45.37 seconds.
+2025-02-05 02:58:03,736 - INFO - HTTP Request: POST https://openai-test-vraj.openai.azure.com/openai/deployments/gpt-4o-mini/chat/completions?api-version=2024-02-01 "HTTP/1.1 200 OK"
+2025-02-05 02:58:03,752 - INFO - LLM invocation took 5.86 seconds.
+2025-02-05 02:58:03,752 - INFO - CSV file saved: output\AWP099-S_output.csv
+2025-02-05 02:58:03,752 - INFO - Writing CSV file took 0.00 seconds.
+2025-02-05 02:58:03,752 - INFO - PDF processed and archived: input\AWP099-S.pdf
+2025-02-05 02:58:03,752 - INFO - Total processing time for input\AWP099-S.pdf was 51.23 seconds.
+2025-02-05 02:58:03,752 - INFO - Started processing PDF: input\AWP099.pdf at 2025-02-05 02:58:03
+2025-02-05 02:58:49,468 - INFO - Reading PDF took 45.72 seconds.
+2025-02-05 02:58:55,606 - INFO - HTTP Request: POST https://openai-test-vraj.openai.azure.com/openai/deployments/gpt-4o-mini/chat/completions?api-version=2024-02-01 "HTTP/1.1 200 OK"
+2025-02-05 02:58:55,608 - INFO - LLM invocation took 6.14 seconds.
+2025-02-05 02:58:55,611 - INFO - CSV file saved: output\AWP099_output.csv
+2025-02-05 02:58:55,612 - INFO - Writing CSV file took 0.00 seconds.
+2025-02-05 02:58:55,615 - INFO - PDF processed and archived: input\AWP099.pdf
+2025-02-05 02:58:55,616 - INFO - Total processing time for input\AWP099.pdf was 51.86 seconds.
+2025-02-05 02:58:55,616 - INFO - Started processing PDF: input\AWP434A_revB.pdf at 2025-02-05 02:58:55
+2025-02-05 02:58:56,098 - INFO - Reading PDF took 0.48 seconds.
+2025-02-05 02:58:59,802 - INFO - HTTP Request: POST https://openai-test-vraj.openai.azure.com/openai/deployments/gpt-4o-mini/chat/completions?api-version=2024-02-01 "HTTP/1.1 200 OK"
+2025-02-05 02:58:59,802 - INFO - LLM invocation took 3.70 seconds.
+2025-02-05 02:58:59,802 - INFO - CSV file saved: output\AWP434A_revB_output.csv
+2025-02-05 02:58:59,802 - INFO - Writing CSV file took 0.00 seconds.
+2025-02-05 02:58:59,802 - INFO - PDF processed and archived: input\AWP434A_revB.pdf
+2025-02-05 02:58:59,802 - INFO - Total processing time for input\AWP434A_revB.pdf was 4.19 seconds.
+2025-02-05 02:58:59,802 - INFO - Started processing PDF: input\AWP525A_revB.pdf at 2025-02-05 02:58:59
+2025-02-05 02:59:00,301 - INFO - Reading PDF took 0.50 seconds.
+2025-02-05 02:59:02,615 - INFO - HTTP Request: POST https://openai-test-vraj.openai.azure.com/openai/deployments/gpt-4o-mini/chat/completions?api-version=2024-02-01 "HTTP/1.1 200 OK"
+2025-02-05 02:59:02,615 - INFO - LLM invocation took 2.31 seconds.
+2025-02-05 02:59:02,631 - INFO - CSV file saved: output\AWP525A_revB_output.csv
+2025-02-05 02:59:02,631 - INFO - Writing CSV file took 0.02 seconds.
+2025-02-05 02:59:02,631 - INFO - PDF processed and archived: input\AWP525A_revB.pdf
+2025-02-05 02:59:02,631 - INFO - Total processing time for input\AWP525A_revB.pdf was 2.83 seconds.
+2025-02-05 02:59:02,631 - INFO - Started processing PDF: input\AWP525B_revB.pdf at 2025-02-05 02:59:02
+2025-02-05 02:59:03,130 - INFO - Reading PDF took 0.50 seconds.
+2025-02-05 02:59:05,897 - INFO - HTTP Request: POST https://openai-test-vraj.openai.azure.com/openai/deployments/gpt-4o-mini/chat/completions?api-version=2024-02-01 "HTTP/1.1 200 OK"
+2025-02-05 02:59:05,912 - INFO - LLM invocation took 2.78 seconds.
+2025-02-05 02:59:05,912 - INFO - CSV file saved: output\AWP525B_revB_output.csv
+2025-02-05 02:59:05,912 - INFO - Writing CSV file took 0.00 seconds.
+2025-02-05 02:59:05,912 - INFO - PDF processed and archived: input\AWP525B_revB.pdf
+2025-02-05 02:59:05,912 - INFO - Total processing time for input\AWP525B_revB.pdf was 3.28 seconds.
+2025-02-05 02:59:05,912 - INFO - Started processing PDF: input\AWP538A.pdf at 2025-02-05 02:59:05
+2025-02-05 02:59:06,098 - INFO - Reading PDF took 0.19 seconds.
+2025-02-05 02:59:09,803 - INFO - HTTP Request: POST https://openai-test-vraj.openai.azure.com/openai/deployments/gpt-4o-mini/chat/completions?api-version=2024-02-01 "HTTP/1.1 200 OK"
+2025-02-05 02:59:09,803 - INFO - LLM invocation took 3.70 seconds.
+2025-02-05 02:59:09,803 - INFO - CSV file saved: output\AWP538A_output.csv
+2025-02-05 02:59:09,803 - INFO - Writing CSV file took 0.00 seconds.
+2025-02-05 02:59:09,803 - INFO - PDF processed and archived: input\AWP538A.pdf
+2025-02-05 02:59:09,818 - INFO - Total processing time for input\AWP538A.pdf was 3.91 seconds.
+2025-02-05 02:59:09,818 - INFO - Started processing PDF: input\AWP538A_revB.pdf at 2025-02-05 02:59:09
+2025-02-05 02:59:12,054 - INFO - Reading PDF took 2.24 seconds.
+2025-02-05 02:59:14,756 - INFO - HTTP Request: POST https://openai-test-vraj.openai.azure.com/openai/deployments/gpt-4o-mini/chat/completions?api-version=2024-02-01 "HTTP/1.1 200 OK"
+2025-02-05 02:59:14,756 - INFO - LLM invocation took 2.70 seconds.
+2025-02-05 02:59:14,756 - INFO - CSV file saved: output\AWP538A_revB_output.csv
+2025-02-05 02:59:14,756 - INFO - Writing CSV file took 0.00 seconds.
+2025-02-05 02:59:14,772 - INFO - PDF processed and archived: input\AWP538A_revB.pdf
+2025-02-05 02:59:14,772 - INFO - Total processing time for input\AWP538A_revB.pdf was 4.95 seconds.
+2025-02-05 02:59:14,773 - INFO - Started processing PDF: input\AWP538B_revB.pdf at 2025-02-05 02:59:14
+2025-02-05 02:59:15,619 - INFO - Reading PDF took 0.85 seconds.
+2025-02-05 02:59:18,474 - INFO - HTTP Request: POST https://openai-test-vraj.openai.azure.com/openai/deployments/gpt-4o-mini/chat/completions?api-version=2024-02-01 "HTTP/1.1 200 OK"
+2025-02-05 02:59:18,474 - INFO - LLM invocation took 2.85 seconds.
+2025-02-05 02:59:18,474 - INFO - CSV file saved: output\AWP538B_revB_output.csv
+2025-02-05 02:59:18,474 - INFO - Writing CSV file took 0.00 seconds.
+2025-02-05 02:59:18,474 - INFO - PDF processed and archived: input\AWP538B_revB.pdf
+2025-02-05 02:59:18,474 - INFO - Total processing time for input\AWP538B_revB.pdf was 3.70 seconds.
+2025-02-05 02:59:18,474 - INFO - Started processing PDF: input\AWP550A_revB.pdf at 2025-02-05 02:59:18
+2025-02-05 02:59:19,331 - INFO - Reading PDF took 0.86 seconds.
+2025-02-05 02:59:22,738 - INFO - HTTP Request: POST https://openai-test-vraj.openai.azure.com/openai/deployments/gpt-4o-mini/chat/completions?api-version=2024-02-01 "HTTP/1.1 200 OK"
+2025-02-05 02:59:22,740 - INFO - LLM invocation took 3.41 seconds.
+2025-02-05 02:59:22,742 - INFO - CSV file saved: output\AWP550A_revB_output.csv
+2025-02-05 02:59:22,742 - INFO - Writing CSV file took 0.00 seconds.
+2025-02-05 02:59:22,745 - INFO - PDF processed and archived: input\AWP550A_revB.pdf
+2025-02-05 02:59:22,758 - INFO - Total processing time for input\AWP550A_revB.pdf was 4.28 seconds.
+2025-02-05 02:59:22,758 - INFO - Started processing PDF: input\AWP550BC_revB.pdf at 2025-02-05 02:59:22
+2025-02-05 02:59:23,599 - INFO - Reading PDF took 0.84 seconds.
+2025-02-05 02:59:26,132 - INFO - HTTP Request: POST https://openai-test-vraj.openai.azure.com/openai/deployments/gpt-4o-mini/chat/completions?api-version=2024-02-01 "HTTP/1.1 200 OK"
+2025-02-05 02:59:26,133 - INFO - LLM invocation took 2.53 seconds.
+2025-02-05 02:59:26,137 - INFO - CSV file saved: output\AWP550BC_revB_output.csv
+2025-02-05 02:59:26,137 - INFO - Writing CSV file took 0.00 seconds.
+2025-02-05 02:59:26,142 - INFO - PDF processed and archived: input\AWP550BC_revB.pdf
+2025-02-05 02:59:26,142 - INFO - Total processing time for input\AWP550BC_revB.pdf was 3.38 seconds.
+2025-02-05 02:59:26,142 - INFO - Started processing PDF: input\AWP550B_revB.pdf at 2025-02-05 02:59:26
+2025-02-05 02:59:26,959 - INFO - Reading PDF took 0.82 seconds.
+2025-02-05 02:59:29,412 - INFO - HTTP Request: POST https://openai-test-vraj.openai.azure.com/openai/deployments/gpt-4o-mini/chat/completions?api-version=2024-02-01 "HTTP/1.1 200 OK"
+2025-02-05 02:59:29,412 - INFO - LLM invocation took 2.45 seconds.
+2025-02-05 02:59:29,412 - INFO - CSV file saved: output\AWP550B_revB_output.csv
+2025-02-05 02:59:29,412 - INFO - Writing CSV file took 0.00 seconds.
+2025-02-05 02:59:29,412 - INFO - PDF processed and archived: input\AWP550B_revB.pdf
+2025-02-05 02:59:29,412 - INFO - Total processing time for input\AWP550B_revB.pdf was 3.27 seconds.
+2025-02-05 02:59:29,412 - INFO - Started processing PDF: input\AWP575A_revB.pdf at 2025-02-05 02:59:29
+2025-02-05 02:59:30,287 - INFO - Reading PDF took 0.87 seconds.
+2025-02-05 02:59:33,100 - INFO - HTTP Request: POST https://openai-test-vraj.openai.azure.com/openai/deployments/gpt-4o-mini/chat/completions?api-version=2024-02-01 "HTTP/1.1 200 OK"
+2025-02-05 02:59:33,100 - INFO - LLM invocation took 2.81 seconds.
+2025-02-05 02:59:33,100 - INFO - CSV file saved: output\AWP575A_revB_output.csv
+2025-02-05 02:59:33,100 - INFO - Writing CSV file took 0.00 seconds.
+2025-02-05 02:59:33,117 - INFO - PDF processed and archived: input\AWP575A_revB.pdf
+2025-02-05 02:59:33,117 - INFO - Total processing time for input\AWP575A_revB.pdf was 3.71 seconds.
+2025-02-05 02:59:33,118 - INFO - Started processing PDF: input\AWP575B_revB.pdf at 2025-02-05 02:59:33
+2025-02-05 02:59:33,944 - INFO - Reading PDF took 0.83 seconds.
+2025-02-05 02:59:36,695 - INFO - HTTP Request: POST https://openai-test-vraj.openai.azure.com/openai/deployments/gpt-4o-mini/chat/completions?api-version=2024-02-01 "HTTP/1.1 200 OK"
+2025-02-05 02:59:36,695 - INFO - LLM invocation took 2.75 seconds.
+2025-02-05 02:59:36,695 - INFO - CSV file saved: output\AWP575B_revB_output.csv
+2025-02-05 02:59:36,695 - INFO - Writing CSV file took 0.00 seconds.
+2025-02-05 02:59:36,695 - INFO - PDF processed and archived: input\AWP575B_revB.pdf
+2025-02-05 02:59:36,695 - INFO - Total processing time for input\AWP575B_revB.pdf was 3.58 seconds.
+2025-02-05 02:59:36,695 - INFO - Started processing PDF: input\AWP599A_revB.pdf at 2025-02-05 02:59:36
+2025-02-05 02:59:37,662 - INFO - Reading PDF took 0.96 seconds.
+2025-02-05 02:59:40,335 - INFO - HTTP Request: POST https://openai-test-vraj.openai.azure.com/openai/deployments/gpt-4o-mini/chat/completions?api-version=2024-02-01 "HTTP/1.1 200 OK"
+2025-02-05 02:59:40,351 - INFO - LLM invocation took 2.69 seconds.
+2025-02-05 02:59:40,351 - INFO - CSV file saved: output\AWP599A_revB_output.csv
+2025-02-05 02:59:40,351 - INFO - Writing CSV file took 0.00 seconds.
+2025-02-05 02:59:40,351 - INFO - PDF processed and archived: input\AWP599A_revB.pdf
+2025-02-05 02:59:40,351 - INFO - Total processing time for input\AWP599A_revB.pdf was 3.66 seconds.
+2025-02-05 02:59:40,351 - INFO - Started processing PDF: input\BB2000.pdf at 2025-02-05 02:59:40
+2025-02-05 02:59:43,726 - INFO - Reading PDF took 3.37 seconds.
+2025-02-05 02:59:51,508 - INFO - HTTP Request: POST https://openai-test-vraj.openai.azure.com/openai/deployments/gpt-4o-mini/chat/completions?api-version=2024-02-01 "HTTP/1.1 200 OK"
+2025-02-05 02:59:51,508 - INFO - LLM invocation took 7.78 seconds.
+2025-02-05 02:59:51,508 - INFO - CSV file saved: output\BB2000_output.csv
+2025-02-05 02:59:51,508 - INFO - Writing CSV file took 0.00 seconds.
+2025-02-05 02:59:51,524 - INFO - PDF processed and archived: input\BB2000.pdf
+2025-02-05 02:59:51,524 - INFO - Total processing time for input\BB2000.pdf was 11.17 seconds.
+2025-02-05 02:59:51,524 - INFO - Started processing PDF: input\BB2010RK.pdf at 2025-02-05 02:59:51
+2025-02-05 02:59:52,358 - INFO - Reading PDF took 0.83 seconds.
+2025-02-05 02:59:55,945 - INFO - HTTP Request: POST https://openai-test-vraj.openai.azure.com/openai/deployments/gpt-4o-mini/chat/completions?api-version=2024-02-01 "HTTP/1.1 200 OK"
+2025-02-05 02:59:55,945 - INFO - LLM invocation took 3.59 seconds.
+2025-02-05 02:59:55,945 - WARNING - Skipping input\BB2010RK.pdf as have data is less.
+2025-02-05 02:59:55,973 - INFO - Started processing PDF: input\BB2500.pdf at 2025-02-05 02:59:55
+2025-02-05 03:00:14,806 - INFO - Reading PDF took 18.83 seconds.
+2025-02-05 03:00:21,447 - INFO - HTTP Request: POST https://openai-test-vraj.openai.azure.com/openai/deployments/gpt-4o-mini/chat/completions?api-version=2024-02-01 "HTTP/1.1 200 OK"
+2025-02-05 03:00:21,447 - INFO - LLM invocation took 6.64 seconds.
+2025-02-05 03:00:21,447 - WARNING - Skipping input\BB2500.pdf as have data is less.
+2025-02-05 03:00:21,447 - INFO - Started processing PDF: input\BBT300 - BIG300.pdf at 2025-02-05 03:00:21
+2025-02-05 03:00:22,022 - INFO - Reading PDF took 0.57 seconds.
+2025-02-05 03:00:28,166 - INFO - HTTP Request: POST https://openai-test-vraj.openai.azure.com/openai/deployments/gpt-4o-mini/chat/completions?api-version=2024-02-01 "HTTP/1.1 200 OK"
+2025-02-05 03:00:28,166 - INFO - LLM invocation took 6.14 seconds.
+2025-02-05 03:00:28,166 - INFO - CSV file saved: output\BBT300 - BIG300_output.csv
+2025-02-05 03:00:28,166 - INFO - Writing CSV file took 0.00 seconds.
+2025-02-05 03:00:28,181 - INFO - PDF processed and archived: input\BBT300 - BIG300.pdf
+2025-02-05 03:00:28,181 - INFO - Total processing time for input\BBT300 - BIG300.pdf was 6.73 seconds.
+2025-02-05 03:00:28,181 - INFO - Started processing PDF: input\BBT300.pdf at 2025-02-05 03:00:28
+2025-02-05 03:00:28,222 - INFO - Reading PDF took 0.04 seconds.
+2025-02-05 03:00:31,759 - INFO - HTTP Request: POST https://openai-test-vraj.openai.azure.com/openai/deployments/gpt-4o-mini/chat/completions?api-version=2024-02-01 "HTTP/1.1 200 OK"
+2025-02-05 03:00:31,759 - INFO - LLM invocation took 3.54 seconds.
+2025-02-05 03:00:31,759 - INFO - CSV file saved: output\BBT300_output.csv
+2025-02-05 03:00:31,759 - INFO - Writing CSV file took 0.00 seconds.
+2025-02-05 03:00:31,759 - INFO - PDF processed and archived: input\BBT300.pdf
+2025-02-05 03:00:31,759 - INFO - Total processing time for input\BBT300.pdf was 3.58 seconds.
+2025-02-05 03:00:31,759 - INFO - Started processing PDF: input\BBV0085.pdf at 2025-02-05 03:00:31
+2025-02-05 03:00:48,823 - INFO - Reading PDF took 17.06 seconds.
+2025-02-05 03:00:55,886 - INFO - HTTP Request: POST https://openai-test-vraj.openai.azure.com/openai/deployments/gpt-4o-mini/chat/completions?api-version=2024-02-01 "HTTP/1.1 200 OK"
+2025-02-05 03:00:55,886 - INFO - LLM invocation took 7.06 seconds.
+2025-02-05 03:00:55,886 - INFO - CSV file saved: output\BBV0085_output.csv
+2025-02-05 03:00:55,886 - INFO - Writing CSV file took 0.00 seconds.
+2025-02-05 03:00:55,886 - INFO - PDF processed and archived: input\BBV0085.pdf
+2025-02-05 03:00:55,886 - INFO - Total processing time for input\BBV0085.pdf was 24.13 seconds.
+2025-02-05 03:00:55,886 - INFO - Started processing PDF: input\BCH12-24-UK.pdf at 2025-02-05 03:00:55
+2025-02-05 03:00:57,166 - INFO - Reading PDF took 1.28 seconds.
+2025-02-05 03:01:01,464 - INFO - HTTP Request: POST https://openai-test-vraj.openai.azure.com/openai/deployments/gpt-4o-mini/chat/completions?api-version=2024-02-01 "HTTP/1.1 200 OK"
+2025-02-05 03:01:01,464 - INFO - LLM invocation took 4.30 seconds.
+2025-02-05 03:01:01,464 - INFO - CSV file saved: output\BCH12-24-UK_output.csv
+2025-02-05 03:01:01,464 - INFO - Writing CSV file took 0.00 seconds.
+2025-02-05 03:01:01,482 - INFO - PDF processed and archived: input\BCH12-24-UK.pdf
+2025-02-05 03:01:01,483 - INFO - Total processing time for input\BCH12-24-UK.pdf was 5.60 seconds.
+2025-02-05 03:01:01,483 - INFO - Started processing PDF: input\BCH4045.pdf at 2025-02-05 03:01:01
+2025-02-05 03:01:05,449 - INFO - Reading PDF took 3.97 seconds.
+2025-02-05 03:01:11,730 - INFO - HTTP Request: POST https://openai-test-vraj.openai.azure.com/openai/deployments/gpt-4o-mini/chat/completions?api-version=2024-02-01 "HTTP/1.1 200 OK"
+2025-02-05 03:01:11,730 - INFO - LLM invocation took 6.28 seconds.
+2025-02-05 03:01:11,730 - INFO - CSV file saved: output\BCH4045_output.csv
+2025-02-05 03:01:11,730 - INFO - Writing CSV file took 0.00 seconds.
+2025-02-05 03:01:11,747 - INFO - PDF processed and archived: input\BCH4045.pdf
+2025-02-05 03:01:11,747 - INFO - Total processing time for input\BCH4045.pdf was 10.26 seconds.
+2025-02-05 03:01:11,748 - INFO - Started processing PDF: input\BCH4050.pdf at 2025-02-05 03:01:11
+2025-02-05 03:01:15,355 - INFO - Reading PDF took 3.61 seconds.
+2025-02-05 03:01:21,669 - INFO - HTTP Request: POST https://openai-test-vraj.openai.azure.com/openai/deployments/gpt-4o-mini/chat/completions?api-version=2024-02-01 "HTTP/1.1 200 OK"
+2025-02-05 03:01:21,669 - INFO - LLM invocation took 6.31 seconds.
+2025-02-05 03:01:21,669 - INFO - CSV file saved: output\BCH4050_output.csv
+2025-02-05 03:01:21,669 - INFO - Writing CSV file took 0.00 seconds.
+2025-02-05 03:01:21,684 - INFO - PDF processed and archived: input\BCH4050.pdf
+2025-02-05 03:01:21,684 - INFO - Total processing time for input\BCH4050.pdf was 9.94 seconds.
+2025-02-05 03:01:21,684 - INFO - Started processing PDF: input\BCH6-12-24-UK.pdf at 2025-02-05 03:01:21
+2025-02-05 03:01:23,183 - INFO - Reading PDF took 1.50 seconds.
+2025-02-05 03:01:26,715 - INFO - HTTP Request: POST https://openai-test-vraj.openai.azure.com/openai/deployments/gpt-4o-mini/chat/completions?api-version=2024-02-01 "HTTP/1.1 200 OK"
+2025-02-05 03:01:26,715 - INFO - LLM invocation took 3.53 seconds.
+2025-02-05 03:01:26,715 - INFO - CSV file saved: output\BCH6-12-24-UK_output.csv
+2025-02-05 03:01:26,715 - INFO - Writing CSV file took 0.00 seconds.
+2025-02-05 03:01:26,727 - INFO - PDF processed and archived: input\BCH6-12-24-UK.pdf
+2025-02-05 03:01:26,728 - INFO - Total processing time for input\BCH6-12-24-UK.pdf was 5.04 seconds.
+2025-02-05 03:01:26,728 - INFO - Started processing PDF: input\BCH6006.pdf at 2025-02-05 03:01:26
+2025-02-05 03:01:28,199 - INFO - Reading PDF took 1.47 seconds.
+2025-02-05 03:01:31,497 - INFO - HTTP Request: POST https://openai-test-vraj.openai.azure.com/openai/deployments/gpt-4o-mini/chat/completions?api-version=2024-02-01 "HTTP/1.1 200 OK"
+2025-02-05 03:01:31,497 - INFO - LLM invocation took 3.30 seconds.
+2025-02-05 03:01:31,497 - INFO - CSV file saved: output\BCH6006_output.csv
+2025-02-05 03:01:31,497 - INFO - Writing CSV file took 0.00 seconds.
+2025-02-05 03:01:31,507 - INFO - PDF processed and archived: input\BCH6006.pdf
+2025-02-05 03:01:31,507 - INFO - Total processing time for input\BCH6006.pdf was 4.78 seconds.
+2025-02-05 03:01:31,507 - INFO - Started processing PDF: input\BCH6007B.pdf at 2025-02-05 03:01:31
+2025-02-05 03:01:37,106 - INFO - Reading PDF took 5.60 seconds.
+2025-02-05 03:01:40,731 - INFO - HTTP Request: POST https://openai-test-vraj.openai.azure.com/openai/deployments/gpt-4o-mini/chat/completions?api-version=2024-02-01 "HTTP/1.1 200 OK"
+2025-02-05 03:01:40,731 - INFO - LLM invocation took 3.62 seconds.
+2025-02-05 03:01:40,731 - INFO - CSV file saved: output\BCH6007B_output.csv
+2025-02-05 03:01:40,731 - INFO - Writing CSV file took 0.00 seconds.
+2025-02-05 03:01:40,731 - INFO - PDF processed and archived: input\BCH6007B.pdf
+2025-02-05 03:01:40,731 - INFO - Total processing time for input\BCH6007B.pdf was 9.22 seconds.
+2025-02-05 03:01:40,731 - INFO - Started processing PDF: input\BCH6008MSK.pdf at 2025-02-05 03:01:40
+2025-02-05 03:01:46,403 - INFO - Reading PDF took 5.67 seconds.
+2025-02-05 03:01:49,623 - INFO - HTTP Request: POST https://openai-test-vraj.openai.azure.com/openai/deployments/gpt-4o-mini/chat/completions?api-version=2024-02-01 "HTTP/1.1 200 OK"
+2025-02-05 03:01:49,623 - INFO - LLM invocation took 3.22 seconds.
+2025-02-05 03:01:49,623 - INFO - CSV file saved: output\BCH6008MSK_output.csv
+2025-02-05 03:01:49,623 - INFO - Writing CSV file took 0.00 seconds.
+2025-02-05 03:01:49,623 - INFO - PDF processed and archived: input\BCH6008MSK.pdf
+2025-02-05 03:01:49,623 - INFO - Total processing time for input\BCH6008MSK.pdf was 8.89 seconds.
+2025-02-05 03:01:49,623 - INFO - Started processing PDF: input\BCH6011.pdf at 2025-02-05 03:01:49
+2025-02-05 03:01:56,913 - INFO - Reading PDF took 7.29 seconds.
+2025-02-05 03:01:59,592 - INFO - HTTP Request: POST https://openai-test-vraj.openai.azure.com/openai/deployments/gpt-4o-mini/chat/completions?api-version=2024-02-01 "HTTP/1.1 200 OK"
+2025-02-05 03:01:59,592 - INFO - LLM invocation took 2.68 seconds.
+2025-02-05 03:01:59,592 - INFO - CSV file saved: output\BCH6011_output.csv
+2025-02-05 03:01:59,592 - INFO - Writing CSV file took 0.00 seconds.
+2025-02-05 03:01:59,592 - INFO - PDF processed and archived: input\BCH6011.pdf
+2025-02-05 03:01:59,592 - INFO - Total processing time for input\BCH6011.pdf was 9.97 seconds.
+2025-02-05 03:01:59,592 - INFO - Started processing PDF: input\BCH6127.pdf at 2025-02-05 03:01:59
+2025-02-05 03:02:01,659 - INFO - Reading PDF took 2.05 seconds.
+2025-02-05 03:02:06,249 - INFO - HTTP Request: POST https://openai-test-vraj.openai.azure.com/openai/deployments/gpt-4o-mini/chat/completions?api-version=2024-02-01 "HTTP/1.1 200 OK"
+2025-02-05 03:02:06,249 - INFO - LLM invocation took 4.59 seconds.
+2025-02-05 03:02:06,249 - INFO - CSV file saved: output\BCH6127_output.csv
+2025-02-05 03:02:06,249 - INFO - Writing CSV file took 0.00 seconds.
+2025-02-05 03:02:06,261 - INFO - PDF processed and archived: input\BCH6127.pdf
+2025-02-05 03:02:06,261 - INFO - Total processing time for input\BCH6127.pdf was 6.67 seconds.
+2025-02-05 03:02:06,261 - INFO - Started processing PDF: input\BCH6127XL.pdf at 2025-02-05 03:02:06
+2025-02-05 03:02:08,106 - INFO - Reading PDF took 1.84 seconds.
+2025-02-05 03:02:12,530 - INFO - HTTP Request: POST https://openai-test-vraj.openai.azure.com/openai/deployments/gpt-4o-mini/chat/completions?api-version=2024-02-01 "HTTP/1.1 200 OK"
+2025-02-05 03:02:12,530 - INFO - LLM invocation took 4.42 seconds.
+2025-02-05 03:02:12,530 - INFO - CSV file saved: output\BCH6127XL_output.csv
+2025-02-05 03:02:12,530 - INFO - Writing CSV file took 0.00 seconds.
+2025-02-05 03:02:12,530 - INFO - PDF processed and archived: input\BCH6127XL.pdf
+2025-02-05 03:02:12,530 - INFO - Total processing time for input\BCH6127XL.pdf was 6.27 seconds.
+2025-02-05 03:02:12,530 - INFO - Started processing PDF: input\BCH7106.pdf at 2025-02-05 03:02:12
+2025-02-05 03:02:14,013 - INFO - Reading PDF took 1.48 seconds.
+2025-02-05 03:02:25,921 - INFO - HTTP Request: POST https://openai-test-vraj.openai.azure.com/openai/deployments/gpt-4o-mini/chat/completions?api-version=2024-02-01 "HTTP/1.1 200 OK"
+2025-02-05 03:02:25,921 - INFO - LLM invocation took 11.91 seconds.
+2025-02-05 03:02:25,921 - INFO - CSV file saved: output\BCH7106_output.csv
+2025-02-05 03:02:25,921 - INFO - Writing CSV file took 0.00 seconds.
+2025-02-05 03:02:25,921 - INFO - PDF processed and archived: input\BCH7106.pdf
+2025-02-05 03:02:25,921 - INFO - Total processing time for input\BCH7106.pdf was 13.39 seconds.
+2025-02-05 03:02:25,937 - INFO - Started processing PDF: input\BCH7109A.pdf at 2025-02-05 03:02:25
+2025-02-05 03:02:27,390 - INFO - Reading PDF took 1.45 seconds.
+2025-02-05 03:02:31,686 - INFO - HTTP Request: POST https://openai-test-vraj.openai.azure.com/openai/deployments/gpt-4o-mini/chat/completions?api-version=2024-02-01 "HTTP/1.1 200 OK"
+2025-02-05 03:02:31,686 - INFO - LLM invocation took 4.30 seconds.
+2025-02-05 03:02:31,686 - INFO - CSV file saved: output\BCH7109A_output.csv
+2025-02-05 03:02:31,686 - INFO - Writing CSV file took 0.00 seconds.
+2025-02-05 03:02:31,686 - INFO - PDF processed and archived: input\BCH7109A.pdf
+2025-02-05 03:02:31,686 - INFO - Total processing time for input\BCH7109A.pdf was 5.75 seconds.
+2025-02-05 03:02:31,686 - INFO - Started processing PDF: input\BCH7109B.pdf at 2025-02-05 03:02:31
+2025-02-05 03:02:36,530 - INFO - Reading PDF took 4.84 seconds.
+2025-02-05 03:02:42,046 - INFO - HTTP Request: POST https://openai-test-vraj.openai.azure.com/openai/deployments/gpt-4o-mini/chat/completions?api-version=2024-02-01 "HTTP/1.1 200 OK"
+2025-02-05 03:02:42,062 - INFO - LLM invocation took 5.53 seconds.
+2025-02-05 03:02:42,062 - WARNING - Skipping input\BCH7109B.pdf as have data is less.
+2025-02-05 03:02:42,062 - INFO - Started processing PDF: input\BCH7112.pdf at 2025-02-05 03:02:42
+2025-02-05 03:02:43,031 - INFO - Reading PDF took 0.97 seconds.
+2025-02-05 03:02:46,296 - INFO - HTTP Request: POST https://openai-test-vraj.openai.azure.com/openai/deployments/gpt-4o-mini/chat/completions?api-version=2024-02-01 "HTTP/1.1 200 OK"
+2025-02-05 03:02:46,296 - INFO - LLM invocation took 3.27 seconds.
+2025-02-05 03:02:46,296 - INFO - CSV file saved: output\BCH7112_output.csv
+2025-02-05 03:02:46,296 - INFO - Writing CSV file took 0.00 seconds.
+2025-02-05 03:02:46,314 - INFO - PDF processed and archived: input\BCH7112.pdf
+2025-02-05 03:02:46,314 - INFO - Total processing time for input\BCH7112.pdf was 4.25 seconds.
+2025-02-05 03:02:46,314 - INFO - Started processing PDF: input\BCH7112A.pdf at 2025-02-05 03:02:46
+2025-02-05 03:02:49,000 - INFO - Reading PDF took 2.68 seconds.
+2025-02-05 03:02:54,109 - INFO - HTTP Request: POST https://openai-test-vraj.openai.azure.com/openai/deployments/gpt-4o-mini/chat/completions?api-version=2024-02-01 "HTTP/1.1 200 OK"
+2025-02-05 03:02:54,109 - INFO - LLM invocation took 5.11 seconds.
+2025-02-05 03:02:54,109 - INFO - CSV file saved: output\BCH7112A_output.csv
+2025-02-05 03:02:54,109 - INFO - Writing CSV file took 0.00 seconds.
+2025-02-05 03:02:54,109 - INFO - PDF processed and archived: input\BCH7112A.pdf
+2025-02-05 03:02:54,109 - INFO - Total processing time for input\BCH7112A.pdf was 7.80 seconds.
+2025-02-05 03:02:54,109 - INFO - Started processing PDF: input\BCH7115.pdf at 2025-02-05 03:02:54
+2025-02-05 03:02:55,507 - INFO - Reading PDF took 1.40 seconds.
+2025-02-05 03:02:57,937 - INFO - HTTP Request: POST https://openai-test-vraj.openai.azure.com/openai/deployments/gpt-4o-mini/chat/completions?api-version=2024-02-01 "HTTP/1.1 200 OK"
+2025-02-05 03:02:57,937 - INFO - LLM invocation took 2.43 seconds.
+2025-02-05 03:02:57,937 - INFO - CSV file saved: output\BCH7115_output.csv
+2025-02-05 03:02:57,937 - INFO - Writing CSV file took 0.00 seconds.
+2025-02-05 03:02:57,937 - INFO - PDF processed and archived: input\BCH7115.pdf
+2025-02-05 03:02:57,937 - INFO - Total processing time for input\BCH7115.pdf was 3.83 seconds.
+2025-02-05 03:02:57,937 - INFO - Started processing PDF: input\BCH7120.pdf at 2025-02-05 03:02:57
+2025-02-05 03:02:59,721 - INFO - Reading PDF took 1.77 seconds.
+2025-02-05 03:03:06,922 - INFO - HTTP Request: POST https://openai-test-vraj.openai.azure.com/openai/deployments/gpt-4o-mini/chat/completions?api-version=2024-02-01 "HTTP/1.1 200 OK"
+2025-02-05 03:03:06,922 - INFO - LLM invocation took 7.20 seconds.
+2025-02-05 03:03:06,922 - INFO - CSV file saved: output\BCH7120_output.csv
+2025-02-05 03:03:06,922 - INFO - Writing CSV file took 0.00 seconds.
+2025-02-05 03:03:06,922 - INFO - PDF processed and archived: input\BCH7120.pdf
+2025-02-05 03:03:06,922 - INFO - Total processing time for input\BCH7120.pdf was 8.98 seconds.
+2025-02-05 03:03:06,922 - INFO - Started processing PDF: input\BCH7129.pdf at 2025-02-05 03:03:06
+2025-02-05 03:03:09,438 - INFO - Reading PDF took 2.52 seconds.
+2025-02-05 03:03:16,720 - INFO - HTTP Request: POST https://openai-test-vraj.openai.azure.com/openai/deployments/gpt-4o-mini/chat/completions?api-version=2024-02-01 "HTTP/1.1 200 OK"
+2025-02-05 03:03:16,720 - INFO - LLM invocation took 7.28 seconds.
+2025-02-05 03:03:16,746 - INFO - CSV file saved: output\BCH7129_output.csv
+2025-02-05 03:03:16,746 - INFO - Writing CSV file took 0.00 seconds.
+2025-02-05 03:03:16,746 - INFO - PDF processed and archived: input\BCH7129.pdf
+2025-02-05 03:03:16,750 - INFO - Total processing time for input\BCH7129.pdf was 9.83 seconds.
+2025-02-05 03:03:16,750 - INFO - Started processing PDF: input\BCH9001.pdf at 2025-02-05 03:03:16
+2025-02-05 03:03:18,970 - INFO - Reading PDF took 2.22 seconds.
+2025-02-05 03:03:23,189 - INFO - HTTP Request: POST https://openai-test-vraj.openai.azure.com/openai/deployments/gpt-4o-mini/chat/completions?api-version=2024-02-01 "HTTP/1.1 200 OK"
+2025-02-05 03:03:23,189 - INFO - LLM invocation took 4.22 seconds.
+2025-02-05 03:03:23,204 - INFO - CSV file saved: output\BCH9001_output.csv
+2025-02-05 03:03:23,204 - INFO - Writing CSV file took 0.02 seconds.
+2025-02-05 03:03:23,204 - INFO - PDF processed and archived: input\BCH9001.pdf
+2025-02-05 03:03:23,204 - INFO - Total processing time for input\BCH9001.pdf was 6.45 seconds.
+2025-02-05 03:03:23,204 - INFO - Started processing PDF: input\BCH9001A.pdf at 2025-02-05 03:03:23
+2025-02-05 03:03:27,876 - INFO - Reading PDF took 4.67 seconds.
+2025-02-05 03:03:31,970 - INFO - HTTP Request: POST https://openai-test-vraj.openai.azure.com/openai/deployments/gpt-4o-mini/chat/completions?api-version=2024-02-01 "HTTP/1.1 200 OK"
+2025-02-05 03:03:31,970 - INFO - LLM invocation took 4.09 seconds.
+2025-02-05 03:03:31,970 - INFO - CSV file saved: output\BCH9001A_output.csv
+2025-02-05 03:03:31,970 - INFO - Writing CSV file took 0.00 seconds.
+2025-02-05 03:03:31,987 - INFO - PDF processed and archived: input\BCH9001A.pdf
+2025-02-05 03:03:31,988 - INFO - Total processing time for input\BCH9001A.pdf was 8.78 seconds.
+2025-02-05 03:03:31,988 - INFO - Started processing PDF: input\BCH9410.pdf at 2025-02-05 03:03:31
+2025-02-05 03:03:33,362 - INFO - Reading PDF took 1.37 seconds.
+2025-02-05 03:03:36,799 - INFO - HTTP Request: POST https://openai-test-vraj.openai.azure.com/openai/deployments/gpt-4o-mini/chat/completions?api-version=2024-02-01 "HTTP/1.1 200 OK"
+2025-02-05 03:03:36,799 - INFO - LLM invocation took 3.44 seconds.
+2025-02-05 03:03:36,799 - INFO - CSV file saved: output\BCH9410_output.csv
+2025-02-05 03:03:36,799 - INFO - Writing CSV file took 0.00 seconds.
+2025-02-05 03:03:36,810 - INFO - PDF processed and archived: input\BCH9410.pdf
+2025-02-05 03:03:36,810 - INFO - Total processing time for input\BCH9410.pdf was 4.82 seconds.
+2025-02-05 03:03:36,810 - INFO - Started processing PDF: input\BCH9420.pdf at 2025-02-05 03:03:36
+2025-02-05 03:03:38,080 - INFO - Reading PDF took 1.27 seconds.
+2025-02-05 03:03:41,518 - INFO - HTTP Request: POST https://openai-test-vraj.openai.azure.com/openai/deployments/gpt-4o-mini/chat/completions?api-version=2024-02-01 "HTTP/1.1 200 OK"
+2025-02-05 03:03:41,518 - INFO - LLM invocation took 3.44 seconds.
+2025-02-05 03:03:41,518 - INFO - CSV file saved: output\BCH9420_output.csv
+2025-02-05 03:03:41,518 - INFO - Writing CSV file took 0.00 seconds.
+2025-02-05 03:03:41,532 - INFO - PDF processed and archived: input\BCH9420.pdf
+2025-02-05 03:03:41,532 - INFO - Total processing time for input\BCH9420.pdf was 4.72 seconds.
+2025-02-05 03:03:41,532 - INFO - Started processing PDF: input\BI7400.pdf at 2025-02-05 03:03:41
+2025-02-05 03:03:42,273 - INFO - Reading PDF took 0.74 seconds.
+2025-02-05 03:03:49,409 - INFO - HTTP Request: POST https://openai-test-vraj.openai.azure.com/openai/deployments/gpt-4o-mini/chat/completions?api-version=2024-02-01 "HTTP/1.1 200 OK"
+2025-02-05 03:03:49,409 - INFO - LLM invocation took 7.14 seconds.
+2025-02-05 03:03:49,409 - INFO - CSV file saved: output\BI7400_output.csv
+2025-02-05 03:03:49,409 - INFO - Writing CSV file took 0.00 seconds.
+2025-02-05 03:03:49,424 - INFO - PDF processed and archived: input\BI7400.pdf
+2025-02-05 03:03:49,425 - INFO - Total processing time for input\BI7400.pdf was 7.89 seconds.
+2025-02-05 03:03:49,425 - INFO - Started processing PDF: input\BK05-KIT.pdf at 2025-02-05 03:03:49
+2025-02-05 03:03:57,987 - INFO - Reading PDF took 8.56 seconds.
+2025-02-05 03:04:02,442 - INFO - HTTP Request: POST https://openai-test-vraj.openai.azure.com/openai/deployments/gpt-4o-mini/chat/completions?api-version=2024-02-01 "HTTP/1.1 200 OK"
+2025-02-05 03:04:02,444 - INFO - LLM invocation took 4.46 seconds.
+2025-02-05 03:04:02,446 - INFO - CSV file saved: output\BK05-KIT_output.csv
+2025-02-05 03:04:02,447 - INFO - Writing CSV file took 0.00 seconds.
+2025-02-05 03:04:02,449 - INFO - PDF processed and archived: input\BK05-KIT.pdf
+2025-02-05 03:04:02,449 - INFO - Total processing time for input\BK05-KIT.pdf was 13.02 seconds.
+2025-02-05 03:04:02,449 - INFO - Started processing PDF: input\BK05.pdf at 2025-02-05 03:04:02
+2025-02-05 03:04:11,629 - INFO - Reading PDF took 9.18 seconds.
+2025-02-05 03:04:15,879 - INFO - HTTP Request: POST https://openai-test-vraj.openai.azure.com/openai/deployments/gpt-4o-mini/chat/completions?api-version=2024-02-01 "HTTP/1.1 200 OK"
+2025-02-05 03:04:15,879 - INFO - LLM invocation took 4.25 seconds.
+2025-02-05 03:04:15,879 - WARNING - Skipping input\BK05.pdf as have data is less.
+2025-02-05 03:04:15,879 - INFO - Started processing PDF: input\BK104.pdf at 2025-02-05 03:04:15
+2025-02-05 03:04:52,833 - INFO - Reading PDF took 36.95 seconds.
+2025-02-05 03:04:57,943 - INFO - HTTP Request: POST https://openai-test-vraj.openai.azure.com/openai/deployments/gpt-4o-mini/chat/completions?api-version=2024-02-01 "HTTP/1.1 200 OK"
+2025-02-05 03:04:57,943 - INFO - LLM invocation took 5.09 seconds.
+2025-02-05 03:04:57,943 - INFO - CSV file saved: output\BK104_output.csv
+2025-02-05 03:04:57,943 - INFO - Writing CSV file took 0.00 seconds.
+2025-02-05 03:04:57,943 - INFO - PDF processed and archived: input\BK104.pdf
+2025-02-05 03:04:57,943 - INFO - Total processing time for input\BK104.pdf was 42.06 seconds.
+2025-02-05 03:04:57,943 - INFO - Started processing PDF: input\BK110.pdf at 2025-02-05 03:04:57
+2025-02-05 03:05:36,055 - INFO - Reading PDF took 38.11 seconds.
+2025-02-05 03:05:40,540 - INFO - HTTP Request: POST https://openai-test-vraj.openai.azure.com/openai/deployments/gpt-4o-mini/chat/completions?api-version=2024-02-01 "HTTP/1.1 200 OK"
+2025-02-05 03:05:40,556 - INFO - LLM invocation took 4.50 seconds.
+2025-02-05 03:05:40,556 - INFO - CSV file saved: output\BK110_output.csv
+2025-02-05 03:05:40,556 - INFO - Writing CSV file took 0.00 seconds.
+2025-02-05 03:05:40,562 - INFO - PDF processed and archived: input\BK110.pdf
+2025-02-05 03:05:40,563 - INFO - Total processing time for input\BK110.pdf was 42.62 seconds.
+2025-02-05 03:05:40,563 - INFO - Started processing PDF: input\BK229.pdf at 2025-02-05 03:05:40
+2025-02-05 03:05:54,814 - INFO - Reading PDF took 14.25 seconds.
+2025-02-05 03:05:59,259 - INFO - HTTP Request: POST https://openai-test-vraj.openai.azure.com/openai/deployments/gpt-4o-mini/chat/completions?api-version=2024-02-01 "HTTP/1.1 200 OK"
+2025-02-05 03:05:59,259 - INFO - LLM invocation took 4.44 seconds.
+2025-02-05 03:05:59,259 - INFO - CSV file saved: output\BK229_output.csv
+2025-02-05 03:05:59,259 - INFO - Writing CSV file took 0.00 seconds.
+2025-02-05 03:05:59,259 - INFO - PDF processed and archived: input\BK229.pdf
+2025-02-05 03:05:59,259 - INFO - Total processing time for input\BK229.pdf was 18.70 seconds.
+2025-02-05 03:05:59,259 - INFO - Started processing PDF: input\BKH2100.pdf at 2025-02-05 03:05:59
+2025-02-05 03:06:07,447 - INFO - Reading PDF took 8.19 seconds.
+2025-02-05 03:06:10,572 - INFO - HTTP Request: POST https://openai-test-vraj.openai.azure.com/openai/deployments/gpt-4o-mini/chat/completions?api-version=2024-02-01 "HTTP/1.1 200 OK"
+2025-02-05 03:06:10,572 - INFO - LLM invocation took 3.13 seconds.
+2025-02-05 03:06:10,572 - INFO - CSV file saved: output\BKH2100_output.csv
+2025-02-05 03:06:10,572 - INFO - Writing CSV file took 0.00 seconds.
+2025-02-05 03:06:10,588 - INFO - PDF processed and archived: input\BKH2100.pdf
+2025-02-05 03:06:10,588 - INFO - Total processing time for input\BKH2100.pdf was 11.33 seconds.
+2025-02-05 03:06:10,588 - INFO - Total time for all PDF processing: 1136.87 seconds.
